@@ -15,6 +15,8 @@ FFLAGS += -O3
 FFLAGS += -funroll-loops
 FFLAGS += -fexpensive-optimizations
 FFLAGS += -ffast-math
+FFLAGS += -fallow-argument-mismatch
+#FFLAGS += -std=legacy
 
 # Fortran debugging and code checks
 #FFLAGS += -g
