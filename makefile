@@ -8,7 +8,6 @@ CC=gcc
 #FC=/usr/local/gfortran/bin/gfortran
 #CC=/usr/local/gfortran/bin/gcc
 
-
 FFLAGS :=
 
 # Fortran optimizations
