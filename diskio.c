@@ -1,6 +1,6 @@
 #define	debug 0 /* set to 1 to get debug print statements */
 
-/* set tabstop=6  */
+/* set tabstop=6 */
 /*  diskio is a set of entry points to do all diskio for large programs
  * where file keeping is a problem.  Diskio also does the actual i/o in an
  * efficient manner (not Fortran!), and also allows the user to position
